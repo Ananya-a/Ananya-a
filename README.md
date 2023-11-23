@@ -1,4 +1,4 @@
-![GitHub Logo](https://example.com/path/to/your/image.png)
+![GitHub Logo](https://github.com/Ananya-a/Ananya-a/issues/1)
 
 <h1 align="center">Hey there! 👋, I'm Ananya</h1>
 <h3 align="center">A student with keen interest in Web Development!</h3>
