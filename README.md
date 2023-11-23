@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/Ananya-a/Ananya-a/issues/1)
+![GitHub Logo]([https://github.com/Ananya-a/Ananya-a/issues/1](https://user-images.githubusercontent.com/72432803/285231570-39da5882-0dcc-4269-af11-5a0a5cbaec6b.png))
 
 <h1 align="center">Hey there! 👋, I'm Ananya</h1>
 <h3 align="center">A student with keen interest in Web Development!</h3>
