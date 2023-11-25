@@ -26,8 +26,9 @@
 <br />
 
 ### :earth_africa: Check out some of my projects  
-- [x] 🏫: **E-learning Management System** - A Java-based system with MySQL integration provides a user-friendly interface for students to access video content, faculty to manage student details, and admin to perform CRUD operations.<a href="">🔗</a>
-- [x] ⏰: **Recipe App** - An Android app, developed with Java in Android Studio, offers categorized recipes with integrated YouTube video features, leveraging Firebase as the backend for recipe storage. <a href="">🔗</a>
+- [x] 🏫: **E-learning Management System** - A Java-based system with MySQL integration provides a user-friendly interface for students to access video content, faculty to manage student details, and admin to perform CRUD operations.<a href="https://github.com/Ananya-a/DBMS-lms">🔗</a>
+- [x] 🍴: **Recipe App** - An Android app, developed with Java in Android Studio, offers categorized recipes with integrated YouTube video features, leveraging Firebase as the backend for recipe storage. <a href="https://github.com/Ananya-a/Recipe-app">🔗</a>
+
 
 <br />
 
