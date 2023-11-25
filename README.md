@@ -3,41 +3,37 @@
 <h1 align="center">Hey there! 👋, I'm Ananya</h1>
 <h3 align="center">A student with keen interest in Web Development!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-a&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-a" /> </p>
+<br />
 
 <h2>👩🏻‍💻About Me</h2>
 
 <p align="left">I'm from Manglore<br><br>- 📚 I'm currently learning Python<br>- ⚡ In my leisure time, I find joy in painting, playing badminton, and traveling<br>
-<!-- <p>💻 Check out my Portfolio https://ananyadharmaraj.carrd.co/</p>
-<p>📫 How to reach me **ananyaarikere@gmail.com**</p> -->
-<!-- - 💻 Check out my Portfolio https://ananyadharmaraj.carrd.co/ <br /> -->
 - 💻 Check out my Portfolio <a href="https://ananyadharmaraj.carrd.co/">🔗</a> <br />
 <!-- - 📫 How to reach me ananyaarikere@gmail.com -->
 - 📫 How to reach me <a href="mailto:ananyaarikere@gmail.com" style="color: blue;">ananyaarikere@gmail.com</a>
 </p>
 
-###
 <br />
 
-<h3 align="left">🛠Languages and Tools:</h3>
-
-###
+<h3 align="left">🛠 Languages and Tools:</h3>
 
   <p align="center">
-  <a href="https://skillicons.dev/icons?i=c,java,html,css,python,mysql,eclipse,firebase,vscode">
-    <img src="https://skillicons.dev/icons?i=c,java,html,css,python,mysql,eclipse,firebase,vscode" alt="My Skills" margin-right="20px">
+  <a href="https://skillicons.dev/icons?i=java,html,css,c,python,mysql,eclipse,firebase,vscode">
+    <img src="https://skillicons.dev/icons?i=java,html,css,c,python,mysql,eclipse,firebase,vscode" alt="My Skills" margin-right="20px">
   </a>
 </p>
 
 <br />
 
-###
+### :earth_africa: Check out some of my projects  
+- [x] 🏫: **E-learning Management System** - A Java-based system with MySQL integration provides a user-friendly interface for students to access video content, faculty to manage student details, and admin to perform CRUD operations.<a href="">🔗</a>
+- [x] ⏰: **Recipe App** - An Android app, developed with Java in Android Studio, offers categorized recipes with integrated YouTube video features, leveraging Firebase as the backend for recipe storage. <a href="">🔗</a>
+
+<br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-a&show_icons=true&locale=en&layout=compact" alt="ananya-a" /></p>
 
 <br />
-
-###
 
 <h3 align="left">Connect with me:</h3>
 <p>
