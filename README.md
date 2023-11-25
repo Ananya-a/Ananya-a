@@ -7,7 +7,7 @@
 
 <h2>👩🏻‍💻About Me</h2>
 
-<p align="left">I'm from Manglore<br><br>- 📚 I'm currently learning Python<br>- ⚡ In my leisure time, I find joy in painting, playing badminton, and traveling<br>
+<p align="left">I am currently pursuing my bachelor's degree majoring in Computer Science (CSE) from Sahyadri College of Engineering and Management, India. I am a tech enthusiast who is always open to collaborating on projects.<br /><br><br>- 📚 I'm currently learning Python<br>- ⚡ In my leisure time, I find joy in painting, playing badminton, and traveling<br>
 - 💻 Check out my Portfolio <a href="https://ananyadharmaraj.carrd.co/">🔗</a> <br />
 <!-- - 📫 How to reach me ananyaarikere@gmail.com -->
 - 📫 How to reach me <a href="mailto:ananyaarikere@gmail.com" style="color: blue;">ananyaarikere@gmail.com</a>
@@ -28,6 +28,7 @@
 ### :earth_africa: Check out some of my projects  
 - [x] 🏫: **E-learning Management System** - A Java-based system with MySQL integration provides a user-friendly interface for students to access video content, faculty to manage student details, and admin to perform CRUD operations.<a href="https://github.com/Ananya-a/DBMS-lms">🔗</a>
 - [x] 🍴: **Recipe App** - An Android app, developed with Java in Android Studio, offers categorized recipes with integrated YouTube video features, leveraging Firebase as the backend for recipe storage. <a href="https://github.com/Ananya-a/Recipe-app">🔗</a>
+- [ ] 🔒 : **Trasform based techniques for Image Watermarking** - Developing a secure image watermarking system with imperceptible embedding and robust extraction capabilities, leveraging advanced encryption for applications like copyright protection and content authentication.
 
 
 <br />
