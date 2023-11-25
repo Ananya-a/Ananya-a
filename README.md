@@ -7,7 +7,7 @@
 
 <h2>👩🏻‍💻About Me</h2>
 
-<p align="left">I am currently pursuing my bachelor's degree majoring in Computer Science (CSE) from Sahyadri College of Engineering and Management, India. I'm learning how to code. Feel free to explore my repositories and reach out to me to discuss any opportunities or ideas Thank you for visiting my profile!<br /><br><br>- 📚 I'm currently learning Python<br>- ⚡ In my leisure time, I find joy in painting, playing badminton, and traveling<br>
+<p align="left">I am currently pursuing my bachelor's degree majoring in Computer Science (CSE) from Sahyadri College of Engineering and Management, India. I'm learning how to code. Feel free to explore my repositories and reach out to me to discuss any opportunities or ideas. Thank you for visiting my profile!<br /><br><br>- 📚 I'm currently learning Python<br>- ⚡ In my leisure time, I find joy in painting, playing badminton, and traveling<br>
 - 💻 Check out my Portfolio <a href="https://ananyadharmaraj.carrd.co/">🔗</a> <br />
 <!-- - 📫 How to reach me ananyaarikere@gmail.com -->
 - 📫 How to reach me <a href="mailto:ananyaarikere@gmail.com" style="color: blue;">ananyaarikere@gmail.com</a>
